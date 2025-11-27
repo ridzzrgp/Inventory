@@ -1,7 +1,13 @@
 {
   "6213349853": {
     "money": 0,
-    "fish": {},
+    "fish": {
+      "Ikan Kakap": {
+        "qty": 1,
+        "price": 50,
+        "rarity": "common"
+      }
+    },
     "gear": null,
     "lastMancing": 0
   }
