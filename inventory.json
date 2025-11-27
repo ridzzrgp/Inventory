@@ -1,13 +1,7 @@
 {
   "6213349853": {
     "money": 0,
-    "fish": {
-      "Calico Swimmer": {
-        "qty": 1,
-        "price": 400,
-        "rarity": "uncommon"
-      }
-    },
+    "fish": {},
     "gear": null,
     "lastMancing": 0
   }
