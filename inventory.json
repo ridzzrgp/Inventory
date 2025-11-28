@@ -1,7 +1,13 @@
 {
   "6213349853": {
     "money": 0,
-    "fish": {},
+    "fish": {
+      "Dorhey Tang": {
+        "qty": 1,
+        "rarity": "epic",
+        "price": 2000
+      }
+    },
     "gear": "default",
     "last": 0
   }
