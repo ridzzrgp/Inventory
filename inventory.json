@@ -1,13 +1,7 @@
 {
   "6213349853": {
     "money": 0,
-    "fish": {
-      "Ikan Nila": {
-        "qty": 1,
-        "rarity": "common",
-        "price": 50
-      }
-    },
+    "fish": {},
     "gear": "default",
     "last": 0
   }
